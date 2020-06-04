@@ -105,6 +105,7 @@ During import the locale is extracted from the first row of the CSV file. Transl
 - added feature to export all locales and groups in a single run
 - the import command will guess the locale and the translation group from the csv
 - added symfony/var-exporter for new array syntax during the import command
+
 5.1.2
 - legacy version
 - compatible with laravel:^5.4
